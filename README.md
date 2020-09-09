@@ -1,14 +1,10 @@
 [![Header](https://github.com/NikitaSevostyanov/NikitaSevostyanov/blob/master/Header.png "Header")](https://martinheinz.dev/)
-
+<a href="https://t.me/roslovets"><img align="center" width="30" height="30" src="https://github.com/roslovets/roslovets/raw/master/src/icon-fa-telegram.png"></a>
+<a href="https://hub.exponenta.ru/profile/22876"><img align="center" width="30" height="30" src="https://github.com/roslovets/roslovets/raw/master/src/icon-my-etmc-exponenta.png"></a>
+<a href="https://www.mathworks.com/matlabcentral/profile/authors/7326344-pavel-roslovets"><img align="center" width="30" height="30" src="https://github.com/roslovets/roslovets/raw/master/src/icon-mw-matlab.png"></a>
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Nikita Sevostianov and I'm a physical modeling engineer. I'm from Khimki, Moscow Region, and currently working at ETMC-Exponenta. You can find me on [![GitHub][2.2]][2], on [![GitHub][1.2]][1] or on [![GitHub][3.2]][3].
-
-<a href="https://t.me/roslovets"><img align="right" width="30" height="30" src="https://github.com/roslovets/roslovets/raw/master/src/icon-fa-telegram.png"></a>
-<a href="https://hub.exponenta.ru/profile/22876"><img align="right" width="30" height="30" src="https://github.com/roslovets/roslovets/raw/master/src/icon-my-etmc-exponenta.png"></a>
-<a href="https://www.mathworks.com/matlabcentral/profile/authors/7326344-pavel-roslovets"><img align="right" width="30" height="30" src="https://github.com/roslovets/roslovets/raw/master/src/icon-mw-matlab.png"></a>
-<a href="https://www.linkedin.com/in/pavel-roslovets"><img align="right" width="30" height="30" src="https://github.com/roslovets/roslovets/raw/master/src/icon-fa-linkedin-square.png"></a>
-<a href="https://roslovets.github.io/"><img align="right" width="30" height="30" src="https://github.com/roslovets/roslovets/raw/master/src/icon-roslovets-website.png"></a>
 
 <!-- links to social media icons -->
 
