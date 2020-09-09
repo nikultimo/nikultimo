@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Nikita Sevostianov and I'm a physical modeling engineer. I'm from Khimki, Moscow Region, and currently working at ETCM-Exponenta. You can find me on [![GitHub][2.2]][2], on [!MathWorks][1.2]][1] or on [!Telegramm][3.2][3].
+My name is Nikita Sevostianov and I'm a physical modeling engineer. I'm from Khimki, Moscow Region, and currently working at ETMC-Exponenta. You can find me on [![GitHub][2.2]][2], on [1.2]][1] or on [3.2][3].
    
 
 <!-- links to social media icons -->
