@@ -1,9 +1,14 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
+[![Header](https://github.com/NikitaSevostyanov/NikitaSevostyanov/blob/master/Header.png "Header")](https://martinheinz.dev/)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Nikita Sevostianov and I'm a physical modeling engineer. I'm from Khimki, Moscow Region, and currently working at ETMC-Exponenta. You can find me on [![GitHub][2.2]][2], on [![GitHub][1.2]][1] or on [![GitHub][3.2]][3].
-   
+
+<a href="https://t.me/roslovets"><img align="right" width="30" height="30" src="https://github.com/roslovets/roslovets/raw/master/src/icon-fa-telegram.png"></a>
+<a href="https://hub.exponenta.ru/profile/22876"><img align="right" width="30" height="30" src="https://github.com/roslovets/roslovets/raw/master/src/icon-my-etmc-exponenta.png"></a>
+<a href="https://www.mathworks.com/matlabcentral/profile/authors/7326344-pavel-roslovets"><img align="right" width="30" height="30" src="https://github.com/roslovets/roslovets/raw/master/src/icon-mw-matlab.png"></a>
+<a href="https://www.linkedin.com/in/pavel-roslovets"><img align="right" width="30" height="30" src="https://github.com/roslovets/roslovets/raw/master/src/icon-fa-linkedin-square.png"></a>
+<a href="https://roslovets.github.io/"><img align="right" width="30" height="30" src="https://github.com/roslovets/roslovets/raw/master/src/icon-roslovets-website.png"></a>
 
 <!-- links to social media icons -->
 
@@ -14,9 +19,9 @@ My name is Nikita Sevostianov and I'm a physical modeling engineer. I'm from Khi
 
 <!-- icons without padding -->
 
-[1.2]: https://img.favpng.com/15/0/4/matlab-computer-icons-mathworks-png-favpng-zXPas0NJx3CYdpLYNHqss3RWn.jpg (mathworks icon)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-telegram-1.png (telegramm icon)
+[1.2]: https://img.favpng.com/15/0/4/matlab-computer-icons-mathworks-png-favpng-zXPas0NJx3CYdpLYNHqss3RWn.jpg (MathWorks)
+[2.2]: http://i.imgur.com/9I6NRUm.png (GitHub)
+[3.2]: https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-telegram-1.png (Telegramm
 
 
 <!-- links to your social media accounts -->
