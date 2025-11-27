@@ -18,7 +18,7 @@ Hey! I'm a backend engineer who gets genuinely excited about building intelligen
 
 Also, sometimes I do some pet project for fun and gaining experience. There is a list of them::
 
-*   **[Agentic Workflow Simulator](https://github.com/nikultimo/agentic-workflow-simulator):**
+*   **[TelegramPostWhisperer](https://github.com/nikultimo/TelegramPostWhisperer)**
 
 ---
 
