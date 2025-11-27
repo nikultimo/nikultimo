@@ -1,8 +1,4 @@
-[![Header](https://github.com/nikultimo/nikultimo/blob/master/Header.png "Header")](https://nikultimo.github.io/)
-<a href="https://t.me/nikultimo"><img align="center" width="30" height="30" src="https://github.com/nikultimo/nikultimo/blob/master/icon-fa-telegram.png"></a>
-<a href="https://hub.exponenta.ru/profile/100373"><img align="center" width="30" height="30" src="https://github.com/nikultimo/nikultimo/blob/master/icon-my-etmc-exponenta.png"></a>
-<a href="https://www.mathworks.com/matlabcentral/profile/authors/17229893"><img align="center" width="30" height="30" src="https://github.com/nikultimo/nikultimo/blob/master/icon-mw-matlab.png"></a>
-# Hello, folks! <img src="https://github.com/nikultimo/nikultimo/blob/master/wave.gif" width="30px">
+
 
 ## &#x1f4c8; GitHub Stats
 
