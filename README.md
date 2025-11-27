@@ -24,13 +24,11 @@ Also, sometimes I do some pet project for fun and gaining experience. There is a
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikultimo&show_icons=true&theme=radical" alt="My GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikultimo&theme=radical" alt="My Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=nikultimo&icon=0&color=0" alt="Profile Views" />
-</p>
+<a href="https://github.com/nikultimo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikultimo&layout=compact&langs_count=8&theme=radical" />
+</a>
+<a href="https://github.com/nikultimo">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=nikultimo&line_height=24&show_icons=true&theme=radical&layout=compact" alt="My github stats" />  
+</a>  
 
 ---
